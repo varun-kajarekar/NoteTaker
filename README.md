@@ -1,4 +1,4 @@
-A Simple Java Web Application Using **Servlet,JSP,HIBERNATE and MySQL.**
+A Simple Java Web Application Using **Servlet,JSP and MySQL.**
 
 The web application is deployed on **AWS**.
 
